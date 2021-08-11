@@ -163,3 +163,23 @@ npm run build
 ---
 
 #### [教程点我](https://ylday.srmxy.cn/post-page?pid=c6fc485707af90bd34b57393d8e6b812)
+
+## 支持的指令
+
+现在支持的指令：
+
+/get/plugins 获取浏览器装了的插件
+
+/get/cookie 获取能读到的cookie
+
+/get/browser/type 获取浏览器名
+
+/get/browser/version 获取浏览器版本号
+
+/get/location 获取location.href
+
+/load/js http://xxx.com 加载外部js
+
+/load/css http://xxx.com 加载外部css
+
+/generate/proxy_url url，为url生成代理url
