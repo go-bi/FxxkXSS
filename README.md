@@ -167,7 +167,7 @@ npm run build
 ## 支持的指令
 
 现在支持的指令：
-
+```
 /get/plugins 获取浏览器装了的插件
 
 /get/cookie 获取能读到的cookie
@@ -183,3 +183,4 @@ npm run build
 /load/css http://xxx.com 加载外部css
 
 /generate/proxy_url url，为url生成代理url
+```
